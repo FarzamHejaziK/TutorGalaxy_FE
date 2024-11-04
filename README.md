@@ -1,6 +1,6 @@
 # TutorGalaxy Frontend
 
-This is the frontend application for the TutorGalaxy project, built with Next.js and Material UI. For the complete application, you'll also need to set up the backend which can be found at [TutorGalaxy Backend Repository](https://github.com/TutorGalaxy/backend).
+This is the frontend application for the TutorGalaxy project, built with Next.js and Material UI. For the complete application, you'll also need to set up the backend which can be found at [TutorGalaxy Backend Repository](https://github.com/FarzamHejaziK/TutorGalaxy_BE).
 
 ## Quick Start Guide
 
@@ -41,6 +41,6 @@ npm run dev
 
 3. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-> **Note**: Make sure you have the backend server running as well. Follow the setup instructions in the [backend repository](https://github.com/TutorGalaxy/backend).
+> **Note**: Make sure you have the backend server running as well. Follow the setup instructions in the [backend repository](https://github.com/FarzamHejaziK/TutorGalaxy_BE).
 
 
