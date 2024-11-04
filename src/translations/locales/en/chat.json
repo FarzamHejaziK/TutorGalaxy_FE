@@ -1,0 +1,54 @@
+{
+  "buddyName": "Chat Bot Tutor",
+  "wizardName": "Chat Bot Tutor",
+  "failToLoadHistory": "Something went wrong",
+  "failToLoadCreatedTopic": "Something went wrong",
+  "newChatFailed": "Error fetching data",
+  "textToSpeechFailed": "Something went wrong",
+  "freeBuddyComplete": "Tip: Your free tutor allocation is complete.\n‘Upgrade to the Plus’ now to create unlimited tutors!",
+  "freeMessageComplete": "Tip: Your free messaging with this tutor is complete.\n‘Upgrade to the Plus plan’ now for unlimited messages!",
+  "subcriptionError": "Something went wrong. Subscription to the Plus plan was unsuccessful.\n\nPlease try again or contact support for assistance.",
+  "subcriptionSuccess": "Success! You're now subscribed to the Plus plan.\nContinue creating new tutors!",
+  "headerTitleLoading": "Loading...",
+  "wizardHeaderTitle": "Wizard",
+  "headerGoalLoading": "Loading...",
+  "wizardGoal": "Tutor creator",
+  "codeEditorButton": "Code Editor",
+  "textEditorButton": "Text Editor",
+  "pauseAudio": "Pause Audio",
+  "playAudio": "Play Audio",
+  "animationText": "Generating your tutor😇",
+  "break": "I need to take a break😴. Come back to you in less than a minute!",
+  "pageLoading": "Thinking.....",
+  "moreChats": "Fetching...",
+  "signIn": "To continue coversation with your\ntutor, please sign in:",
+  "Header": "Tutor Galaxy",
+  "sidebar": {
+    "failToLoadConversation": "Something went wrong",
+    "menu": {
+      "myPlan": "My Plan",
+      "darkMode": "Dark Mode",
+      "lightMode": "Light Mode",
+      "logout": "Logout"
+    },
+    "freeBuddyComplete": "Tip: Your free tutor allocation is complete.\n‘Upgrade to the Plus plan’ now to create unlimited tutors!",
+    "createNew": "Create New Tutor",
+    "history": "History",
+    "signIn": "To save your tutor and to create multiple tutors please sign in:"
+  },
+  "send": {
+    "listening": "Listening …",
+    "placeholder": "Please type your response!"
+  },
+  "textEditor": {
+    "heading": "Text Editor",
+    "send": "Send"
+  },
+  "codeEditor": {
+    "errorParsing": "Error in parsing code",
+    "output": "Output:",
+    "executing": "Executing code...",
+    "send": "Send",
+    "run": "Run"
+  }
+}

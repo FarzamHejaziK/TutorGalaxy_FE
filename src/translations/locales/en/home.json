@@ -1,0 +1,8 @@
+{
+  "createNew": "Create New Tutor",
+  "history": "History of Tutors",
+  "failToLoadError": "Something went wrong",
+  "freeBuddyComplete": "Tip: Your free tutor allocation is complete.\n‘Upgrade to the Plus plan’ now to create unlimited tutors!",
+  "subcriptionUnsuccessful": "Something went wrong. Subscription to the Plus plan was unsuccessful.\nPlease try again or contact support for assistance.",
+  "subcriptionSuccessful": "Success! You're now subscribed to the Plus plan.\nContinue creating new tutors!"
+}

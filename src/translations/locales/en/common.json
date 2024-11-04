@@ -1,0 +1,19 @@
+{
+  "planDialog": {
+    "freePlanName": "Free Plan",
+    "freePlanFeatures": [
+      "Create up to 8 tutors ",
+      "Maximum of 50 messages with each tutor."
+    ],
+    "plusPlanName": "Plus Plan",
+    "plusPlanFeatures": [
+      "Create unlimited tutors",
+      "Unlimited messages with each tutor."
+    ],
+    "currentPlanButton": "Your current plan",
+    "upgradeToPlusButton": "Upgrade to Plus",
+    "yourPlan": "Your Plan",
+    "ourPlans": "Our Plans",
+    "manageSubscription": "Manage my subscription"
+  }
+}

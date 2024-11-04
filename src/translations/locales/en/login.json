@@ -1,0 +1,16 @@
+{
+  "Header": "Tutor Galaxy",
+  "title": "Create AI Tutors for Ultimate Personalized Learning Experience",
+  "description": "AI-Powered Personalized Tutors: Unlock Expert Learning Tailored to You.",
+  "newTutor": "Create New Tutor",
+  "googleSignIn": "Sign In with Google",
+  "loginFailed": "Something went wrong",
+  "privacy": "Privacy Policy",
+  "terms": "Terms & Conditions",
+  "contact": "Contact Us",
+  "email login": " Login with email",
+  "continue": "Login",
+  "LoginWithEmail": "Sign in",
+  "emailSignIn": "Sign in with email",
+  "enterEmail": "Email Address"
+}
