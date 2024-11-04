@@ -30,8 +30,8 @@ This is the frontend application for the TutorGalaxy project, built with Next.js
 
 3. Configure your environment variables in `.env.local`:
    ```env
-   NEXT_PUBLIC_API_URL=http://localhost:8000    # Backend API URL
-   REACT_APP_API_URL=http://localhost:8000      # Backend API URL
+   NEXT_PUBLIC_API_URL=http://localhost:8000   
+   REACT_APP_API_URL=http://localhost:8000     
    ```
 
 ### Installation & Setup

@@ -32,6 +32,7 @@ export default function EmailLogin({ chatId }) {
 
     setLoading(true);
     try {
+      console.log('Login URL:', axios.defaults.baseURL + '/login/code');
       const result = await axios.post(`/login/code`, {
         email: email
       });

@@ -3,6 +3,7 @@ import getConfig from "next/config";
 
 const { publicRuntimeConfig } = getConfig();
 let baseURL = publicRuntimeConfig.REACT_APP_API_URL || "http://localhost:8000";
+console.log('API Base URL:', baseURL);
 
 const instance = axios.create({
   baseURL,
