@@ -1,4 +1,3 @@
-
 # TutorGalaxy Frontend
 
 This is the frontend application for the TutorGalaxy project, built with Next.js and Material UI. For the complete application, you'll also need to set up the backend, which can be found at [TutorGalaxy Backend Repository](https://github.com/FarzamHejaziK/TutorGalaxy_BE).
@@ -23,15 +22,10 @@ This is the frontend application for the TutorGalaxy project, built with Next.js
    cd TutorGalaxy_FE
    ```
 
-2. Create a `.env.local` file in the root directory:
-   ```sh
-   cp .env.example .env.local
-   ```
-
-3. Configure your environment variables in `.env.local`:
+2. Create a `.env.local` file in the root directory and add the following content:
    ```env
-   NEXT_PUBLIC_API_URL=http://localhost:8000   
-   REACT_APP_API_URL=http://localhost:8000     
+   NEXT_PUBLIC_API_URL=http://localhost:8000
+   REACT_APP_API_URL=http://localhost:8000
    ```
 
 ### Installation & Setup
