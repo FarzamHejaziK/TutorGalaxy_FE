@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
+  reactStrictMode: false,
   publicRuntimeConfig: {
     REACT_APP_API_URL: process.env.NEXT_PUBLIC_API_URL,
   },
